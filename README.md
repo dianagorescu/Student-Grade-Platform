@@ -1,2 +1,2 @@
-# Electronic-Grades-Platform
+# Student-Grade-Platform
 Java - Object-Oriented Programming
