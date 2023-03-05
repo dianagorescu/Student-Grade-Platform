@@ -46,7 +46,7 @@ Design pattern-uri:
 ->Memento: neimplementata
 
 
-Testarea: - am creat un fisier in care cursurile sunt delimitate prin * si grupele fiecarui curs cu #. Pentru fiecare se respecta urmatorul tipar:
+Testarea: - (din cauza lipsei de timp) am creat un fisier in care cursurile sunt delimitate prin * si grupele fiecarui curs cu #. Pentru fiecare se respecta urmatorul tipar:
 
 CURS: nume_curs //nr_credite tip_curs //strategie_curs //firstname_profesor //lastname_profesor //grupe
 
@@ -54,6 +54,7 @@ GRUPA: id_grupa //firstname_asistent //lastname_asistent //studenti
 
 STUDENT: firstname lastname fn_mama ln_mama fn_tata ln_tata nota_examen nota_partial
 
+---ulterior, am incercat parsarea cu json simple, Test_citire_json.java cu fisierul Test_citire.json
 
 Interfata grafica:
 
