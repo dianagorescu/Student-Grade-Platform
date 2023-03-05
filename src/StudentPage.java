@@ -15,7 +15,7 @@ public class StudentPage extends JFrame implements ActionListener {
         String firstname = f, lastname = l;
 
         panel = new JPanel(new GridLayout(3, 1));
-        setSize(500,300);
+        setSize(450,300);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setTitle(f+ " " + l);
         m1 = new JLabel();
