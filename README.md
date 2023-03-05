@@ -61,4 +61,9 @@ Interfata grafica:
 
 -am implementat doar pagina STUDENT care ofera informatii precum: numele profesorului de la curs, numele asistentilor, numele asistentului de la laborator, numele parintilor studentului, notele pe parcurs si de la examen; la apasarea butonului unui curs la care este inscris studentul. 
 
+![image](https://user-images.githubusercontent.com/94400419/222975029-2adc6083-9806-433d-888d-b1b98e2f71ff.png)
+![image](https://user-images.githubusercontent.com/94400419/222975040-9d33792a-a578-4a4b-9d9e-1b2d2948d7f8.png)
+
+
+
 
